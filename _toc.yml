@@ -1,12 +1,9 @@
-format: jb-book
-root: intro
-chapters:
-  - file: urban-heritage-role
+root: index
+entries:
+- file: aging-healthcare-cases
+  entries:
   - file: healthy-city-model
-  - file: aging-healthcare-cases
-  - file: local-case-waseda
+  - file: intro
   - file: policy-summary
   - file: references
-  - file: markdown
-  - file: markdown-notebooks
-  - file: notebooks
+  - file: urban-heritage-role

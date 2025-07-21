@@ -1,15 +1,17 @@
-# Jupyter Book 基本設定
+# Jupyter Book 設定檔 (_config.yml)
+
 title: 城市文資安養
-author: 使用者名稱
-language: zh
+author: USER
+logo: images/logo.png
 
 only_build_toc_files: true
 
-execute:
-  execute_notebooks: "off"
+repository:
+  url: https://github.com/brianwu989/Jupyter-Book-test1
+  path_to_book: ""
+  branch: main
 
-sphinx:
-  config:
-    html_theme: sphinx_book_theme
-    html_logo: ""
-    html_favicon: ""
+html:
+  use_repository_button: true
+  use_issues_button: false
+  use_edit_page_button: false
