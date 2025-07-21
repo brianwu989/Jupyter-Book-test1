@@ -9,7 +9,7 @@ only_build_toc_files: true
 repository:
   url: https://github.com/brianwu989/Jupyter-Book-test1
   path_to_book: ""
-  branch: main
+  branch: gh-pages
 
 html:
   use_repository_button: true
