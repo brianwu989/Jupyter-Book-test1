@@ -1,0 +1,4 @@
+jupyter-book
+sphinx-book-theme
+myst-parser
+sphinxcontrib-bibtex
