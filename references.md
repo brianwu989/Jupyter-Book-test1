@@ -1,6 +1,5 @@
 # 參考文獻
-
-參考文獻1. Colwill, T. (2024). *Heritage capital and wellbeing: Examining the relationship between heritage density and life satisfaction* (Research Report Series No. 18/2024). Historic England.
+1. Colwill, T. (2024). *Heritage capital and wellbeing: Examining the relationship between heritage density and life satisfaction* (Research Report Series No. 18/2024). Historic England.
 
 　　2. de Leeuw, E., Tsouros, A. D., Dyakova, M., & Green, G. (Eds.). (2014). *Healthy cities: Promoting health and equity – evidence for local policy and practice*. World Health Organization, Regional Office for Europe.
 

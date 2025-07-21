@@ -1,10 +1,12 @@
 format: jb-book
 root: intro
-
 chapters:
-  - file: 城市文資安養_book/urban-heritage-role
-  - file: 城市文資安養_book/healthy-city-model
-  - file: 城市文資安養_book/aging-healthcare-cases
-  - file: 城市文資安養_book/local-case-waseda
-  - file: 城市文資安養_book/policy-summary
-  - file: 城市文資安養_book/references
+  - file: urban-heritage-role
+  - file: healthy-city-model
+  - file: aging-healthcare-cases
+  - file: local-case-waseda
+  - file: policy-summary
+  - file: references
+  - file: markdown
+  - file: markdown-notebooks
+  - file: notebooks
