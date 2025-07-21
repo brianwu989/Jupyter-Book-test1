@@ -12,6 +12,10 @@ repository:
   branch: gh-pages
 
 html:
+  baseurl: /Jupyter-Book-test1
+  favicon: logo.png
   use_repository_button: true
-  use_issues_button: false
-  use_edit_page_button: false
+  use_edit_page_button: true
+  use_issues_button: true
+  extra_navbar: 製作：吳柏翰，資料來源：國網中心 LASS 資料
+  extra_footer: 本網站使用 Jupyter Book 製作，並部署於 GitHub Pages。
